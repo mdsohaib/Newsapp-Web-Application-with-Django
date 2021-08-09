@@ -1,4 +1,4 @@
-# Newsapp-Web-Application-with-Django
+<div align="center"> <img src="Screenshots/main.jpeg" width="500" height="250"> </center> </div>
 ### Link - https://newsapp-proj.herokuapp.com/
 
 ### The news aggregator algorithm acts as a one stop destination for various categories of interesting news like the sports, national, science, etc collected from various news circulation systems. Given the category of news, the user likes to surf,through an interactive interface this algorithm displays the latest news for that category within seconds.
